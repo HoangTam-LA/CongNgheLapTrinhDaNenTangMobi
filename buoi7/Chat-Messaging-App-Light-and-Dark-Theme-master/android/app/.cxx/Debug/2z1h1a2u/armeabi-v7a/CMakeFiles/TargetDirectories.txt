@@ -1,0 +1,2 @@
+D:/HK2-N4/CONGNGHE/baitapbuoi7/Chat-Messaging-App-Light-and-Dark-Theme-master/android/app/.cxx/Debug/2z1h1a2u/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/HK2-N4/CONGNGHE/baitapbuoi7/Chat-Messaging-App-Light-and-Dark-Theme-master/android/app/.cxx/Debug/2z1h1a2u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
